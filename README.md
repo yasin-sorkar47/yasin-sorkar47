@@ -1,7 +1,6 @@
-## Hi, I'm Yasin Sarkar 👋
+# Hi, I'm Yasin Sarkar 👋 
 [<img src='https://github.com/yasin-sorkar47/Yasin-Sarkar/blob/main/image/banner.jpg' alt='Yasin Sarkar'>](https://github.com/yasin-sorkar47/)
 
-<h1 align="center">Hi 👋, I'm Yasin Sarkar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br>
 <br>
